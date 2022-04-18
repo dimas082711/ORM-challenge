@@ -1,7 +1,7 @@
 # E-commerce Back End
 
 # Description
-* Backend for an e-commerce site using Express.js API with Sequelize to interact with MYSWL DB.
+* Backend for an e-commerce site using Express.js API with Sequelize to interact with MYSQL DB.
 
 # User Story
 
